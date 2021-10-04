@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = enrico.brilla@gmail.com
+	name = enrico brilla
